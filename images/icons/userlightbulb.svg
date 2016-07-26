@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>user lightbulb 2.1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="user-lightbulb-2.1" transform="translate(-4.000000, -2.000000)">
+            <g id="Group">
+                <g id="Frame_-_24px">
+                    <rect id="Rectangle-path" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="Filled_Icons" transform="translate(4.000000, 2.000000)" fill="#4E2A84">
+                    <path d="M16.562,9.019 C15.547,4.586 14.499,0 8.001,0 C3.59,0 0.001,3.589 0.001,8 L0.001,20 L12.001,20 L12.001,17 L13.001,17 C14.104,17 15.001,16.103 15.001,15 L15.001,12 L17.282,12 C17.282,12 16.692,9.592 16.562,9.019 L16.562,9.019 Z M7.001,3 L9.001,3 L9.001,5 L7.001,5 L7.001,3 L7.001,3 Z M2.305,6.866 L3.305,5.134 L5.037,6.134 L4.037,7.866 L2.305,6.866 L2.305,6.866 Z M9.001,15 C9.001,15.553 8.554,16 8.001,16 C7.448,16 7.001,15.553 7.001,15 L7.001,14 L9.001,14 L9.001,15 L9.001,15 Z M9.803,11.387 C9.298,11.764 9.001,12.358 9.001,12.989 L9.001,13 L7.001,13 L7.001,12.988 C7.001,12.358 6.702,11.763 6.199,11.386 C5.473,10.842 5.001,9.979 5.001,9 C5.001,7.344 6.344,6 8.001,6 C9.657,6 11.001,7.344 11.001,9 C11.001,9.979 10.529,10.842 9.803,11.387 L9.803,11.387 Z M11.965,7.866 L10.965,6.134 L12.697,5.134 L13.697,6.866 L11.965,7.866 L11.965,7.866 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

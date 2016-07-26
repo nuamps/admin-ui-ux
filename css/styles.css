@@ -146,3 +146,111 @@ footer {
       -moz-transition: opacity 100ms ease-out 0s;
       -o-transition: opacity 100ms ease-out 0s;
       transition: opacity 100ms ease-out 0s; }
+
+footer {
+  background: #4e2a84;
+  color: #fff;
+  font: 12px/2.1em "Akkurat Pro Regular",Arial,sans-serif;
+  padding: 3rem 0;
+  width: 100%; }
+  footer a:link {
+    font-family: "Akkurat Pro Regular",Arial,sans-serif;
+    color: #fff;
+    text-decoration: underline; }
+    footer a:link:hover {
+      color: #fff;
+      text-decoration: none; }
+  footer .contain-970 {
+    margin: 0 auto;
+    max-width: 970px;
+    box-sizing: content-box; }
+    footer .contain-970 .footer-content {
+      width: 21.64948%;
+      display: inline-block;
+      margin-right: 5.46392%;
+      position: relative;
+      vertical-align: top; }
+      footer .contain-970 .footer-content .hide-label {
+        position: absolute;
+        left: -10000px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden; }
+      footer .contain-970 .footer-content img {
+        margin-bottom: 1rem;
+        max-width: 170px; }
+      footer .contain-970 .footer-content ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline; }
+        footer .contain-970 .footer-content ul li {
+          margin: 0;
+          padding: 0;
+          border: 0;
+          font-size: 100%;
+          font: inherit;
+          vertical-align: baseline; }
+      footer .contain-970 .footer-content.contact ul {
+        margin: 1rem 0 1rem 2rem;
+        position: relative; }
+        footer .contain-970 .footer-content.contact ul li.footer-phone-icon {
+          background: url("../images/mobile-phone.svg") no-repeat;
+          position: absolute;
+          top: 2px;
+          left: -2rem;
+          height: 24px;
+          width: 18px; }
+        footer .contain-970 .footer-content.contact ul li.footer-pin-icon {
+          background: url("../images/pin-drop.svg") no-repeat;
+          position: absolute;
+          top: 2px;
+          left: -2rem;
+          height: 24px;
+          width: 18px; }
+      footer .contain-970 .footer-content .social-slide {
+        display: inline-block;
+        height: 39px;
+        width: 39px;
+        transition: all 0.3s ease 0s;
+        border: 1px solid #fff;
+        margin: 0 .6rem .2rem 0; }
+        footer .contain-970 .footer-content .social-slide.facebook-hover {
+          background: url("../images/social-media-icons.png") 0px 0px;
+          background-position: 0px 0px; }
+          footer .contain-970 .footer-content .social-slide.facebook-hover:hover {
+            background-position: 0px 39px; }
+        footer .contain-970 .footer-content .social-slide.twitter-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -39px 0px; }
+          footer .contain-970 .footer-content .social-slide.twitter-hover:hover {
+            background-position: -39px 39px; }
+        footer .contain-970 .footer-content .social-slide.instagram-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -78px 0px; }
+          footer .contain-970 .footer-content .social-slide.instagram-hover:hover {
+            background-position: -78px 39px; }
+        footer .contain-970 .footer-content .social-slide.youtube-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -156px 0px; }
+          footer .contain-970 .footer-content .social-slide.youtube-hover:hover {
+            background-position: -156px 39px; }
+        footer .contain-970 .footer-content .social-slide.futurity-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -273px 0px; }
+          footer .contain-970 .footer-content .social-slide.futurity-hover:hover {
+            background-position: -273px 39px; }
+        footer .contain-970 .footer-content .social-slide.rss-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -117px 0px; }
+          footer .contain-970 .footer-content .social-slide.rss-hover:hover {
+            background-position: -117px 39px; }
+    footer .contain-970 .footer-content:nth-of-type(2) {
+      width: 25.7732%; }
+    footer .contain-970 .footer-content:nth-of-type(4) {
+      width: 10.30928%;
+      margin-right: 0; }
