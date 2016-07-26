@@ -1,0 +1,256 @@
+html {
+  background-color: #fafafa; }
+
+pre {
+  margin-top: 10px; }
+
+#PT_HEADER h1 {
+  margin: 0; }
+#PT_HEADER * {
+  -webkit-box-sizing: content-box !important;
+  -moz-box-sizing: content-box !important;
+  box-sizing: content-box !important; }
+
+p.italic {
+  font-style: italic; }
+
+.jumbotron {
+  background-color: #d8d6d6;
+  margin-top: 30px; }
+  .jumbotron img {
+    width: 50px;
+    margin: 10px; }
+  .jumbotron h1 {
+    opacity: 1; }
+  .jumbotron a.btn-lg {
+    margin-top: 50px;
+    color: white; }
+
+body {
+  background-color: transparent; }
+
+#main {
+  background-color: white;
+  border: 1px solid #f0f0f0;
+  border-bottom: 2px solid #f0f0f0; }
+
+header {
+  margin-bottom: 20px; }
+  header .header_top {
+    background-color: #401f68;
+    height: 50px; }
+    header .header_top .container {
+      padding: 0; }
+    header .header_top img {
+      width: 170px;
+      margin: 14px 0px 10px 0px; }
+  header .header_bottom {
+    background-color: #4e2a84;
+    color: white; }
+    header .header_bottom .container {
+      padding: 0; }
+    header .header_bottom h3 {
+      font-weight: normal;
+      margin: 30px 0px;
+      font-size: 24px;
+      line-height: 1; }
+
+footer {
+  margin-top: 10px;
+  font-size: 10px;
+  color: #bbb8b8; }
+
+.nuitile .ps_box-grouplet {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px; }
+.nuitile .nuilp {
+  border-radius: 0;
+  box-shadow: none;
+  background-color: #f0f0f0; }
+  .nuitile .nuilp img {
+    width: 50px;
+    max-width: none;
+    max-height: none; }
+  .nuitile .nuilp h2.ps_groupleth {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #4e2a84;
+    text-align: center;
+    margin: 0px;
+    -webkit-transition: background-color 100ms ease-out 0s;
+    -moz-transition: background-color 100ms ease-out 0s;
+    -o-transition: background-color 100ms ease-out 0s;
+    transition: background-color 100ms ease-out 0s; }
+    .nuitile .nuilp h2.ps_groupleth span.ps-label {
+      margin: 5px 0px;
+      color: white;
+      text-align: center; }
+  .nuitile .nuilp:hover {
+    background-color: #f0f0f0 !important; }
+    .nuitile .nuilp:hover h2.ps_groupleth {
+      background-color: #836eaa;
+      -webkit-transition: background-color 100ms ease-out 0s;
+      -moz-transition: background-color 100ms ease-out 0s;
+      -o-transition: background-color 100ms ease-out 0s;
+      transition: background-color 100ms ease-out 0s; }
+
+#PT_HEADER .ps_header_bar {
+  background-color: #401f68;
+  background-image: none;
+  border: none;
+  border-bottom: 10px solid #4e2a84; }
+  #PT_HEADER .ps_header_bar .ps_back_cont #PT_WORK_PT_BUTTON_BACK {
+    border: none;
+    border-radius: 0;
+    background-image: none;
+    box-shadow: none;
+    -webkit-transition: opacity 100ms ease-out 0s;
+    -moz-transition: opacity 100ms ease-out 0s;
+    -o-transition: opacity 100ms ease-out 0s;
+    transition: opacity 100ms ease-out 0s; }
+    #PT_HEADER .ps_header_bar .ps_back_cont #PT_WORK_PT_BUTTON_BACK:hover {
+      background-color: transparent;
+      opacity: .5;
+      -webkit-transition: opacity 100ms ease-out 0s;
+      -moz-transition: opacity 100ms ease-out 0s;
+      -o-transition: opacity 100ms ease-out 0s;
+      transition: opacity 100ms ease-out 0s; }
+  #PT_HEADER .ps_header_bar .ps_back_cont .nuihdr_logo:after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    content: url(../images/NU_small.png);
+    padding-top: 0.25em;
+    margin-left: -0.7em; }
+  #PT_HEADER .ps_header_bar .ps_actions_cont a.ps-button,
+  #PT_HEADER .ps_header_bar .ps_pagetitle_cont a.ps-button {
+    border-radius: 0;
+    border: 0;
+    background-image: none;
+    -webkit-transition: opacity 100ms ease-out 0s;
+    -moz-transition: opacity 100ms ease-out 0s;
+    -o-transition: opacity 100ms ease-out 0s;
+    transition: opacity 100ms ease-out 0s; }
+    #PT_HEADER .ps_header_bar .ps_actions_cont a.ps-button:hover,
+    #PT_HEADER .ps_header_bar .ps_pagetitle_cont a.ps-button:hover {
+      background-color: transparent;
+      box-shadow: none;
+      opacity: .5;
+      -webkit-transition: opacity 100ms ease-out 0s;
+      -moz-transition: opacity 100ms ease-out 0s;
+      -o-transition: opacity 100ms ease-out 0s;
+      transition: opacity 100ms ease-out 0s; }
+
+footer {
+  background: #4e2a84;
+  color: #fff;
+  font: 12px/2.1em "Akkurat Pro Regular",Arial,sans-serif;
+  padding: 3rem 0;
+  width: 100%; }
+  footer a:link {
+    font-family: "Akkurat Pro Regular",Arial,sans-serif;
+    color: #fff;
+    text-decoration: underline; }
+    footer a:link:hover {
+      color: #fff;
+      text-decoration: none; }
+  footer .contain-970 {
+    margin: 0 auto;
+    max-width: 970px;
+    box-sizing: content-box; }
+    footer .contain-970 .footer-content {
+      width: 21.64948%;
+      display: inline-block;
+      margin-right: 5.46392%;
+      position: relative;
+      vertical-align: top; }
+      footer .contain-970 .footer-content .hide-label {
+        position: absolute;
+        left: -10000px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden; }
+      footer .contain-970 .footer-content img {
+        margin-bottom: 1rem;
+        max-width: 170px; }
+      footer .contain-970 .footer-content ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline; }
+        footer .contain-970 .footer-content ul li {
+          margin: 0;
+          padding: 0;
+          border: 0;
+          font-size: 100%;
+          font: inherit;
+          vertical-align: baseline; }
+      footer .contain-970 .footer-content.contact ul {
+        margin: 1rem 0 1rem 2rem;
+        position: relative; }
+        footer .contain-970 .footer-content.contact ul li.footer-phone-icon {
+          background: url("../images/mobile-phone.svg") no-repeat;
+          position: absolute;
+          top: 2px;
+          left: -2rem;
+          height: 24px;
+          width: 18px; }
+        footer .contain-970 .footer-content.contact ul li.footer-pin-icon {
+          background: url("../images/pin-drop.svg") no-repeat;
+          position: absolute;
+          top: 2px;
+          left: -2rem;
+          height: 24px;
+          width: 18px; }
+      footer .contain-970 .footer-content .social-slide {
+        display: inline-block;
+        height: 39px;
+        width: 39px;
+        transition: all 0.3s ease 0s;
+        border: 1px solid #fff;
+        margin: 0 .6rem .2rem 0; }
+        footer .contain-970 .footer-content .social-slide.facebook-hover {
+          background: url("../images/social-media-icons.png") 0px 0px;
+          background-position: 0px 0px; }
+          footer .contain-970 .footer-content .social-slide.facebook-hover:hover {
+            background-position: 0px 39px; }
+        footer .contain-970 .footer-content .social-slide.twitter-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -39px 0px; }
+          footer .contain-970 .footer-content .social-slide.twitter-hover:hover {
+            background-position: -39px 39px; }
+        footer .contain-970 .footer-content .social-slide.instagram-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -78px 0px; }
+          footer .contain-970 .footer-content .social-slide.instagram-hover:hover {
+            background-position: -78px 39px; }
+        footer .contain-970 .footer-content .social-slide.youtube-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -156px 0px; }
+          footer .contain-970 .footer-content .social-slide.youtube-hover:hover {
+            background-position: -156px 39px; }
+        footer .contain-970 .footer-content .social-slide.futurity-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -273px 0px; }
+          footer .contain-970 .footer-content .social-slide.futurity-hover:hover {
+            background-position: -273px 39px; }
+        footer .contain-970 .footer-content .social-slide.rss-hover {
+          background-image: url("../images/social-media-icons.png");
+          background-position: -117px 0px; }
+          footer .contain-970 .footer-content .social-slide.rss-hover:hover {
+            background-position: -117px 39px; }
+    footer .contain-970 .footer-content:nth-of-type(2) {
+      width: 25.7732%; }
+    footer .contain-970 .footer-content:nth-of-type(4) {
+      width: 10.30928%;
+      margin-right: 0; }
